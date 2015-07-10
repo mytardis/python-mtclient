@@ -1,1 +1,5 @@
 .idea
+mtclient.egg-info
+.tox
+.eggs
+*.pyc
